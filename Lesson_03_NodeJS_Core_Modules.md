@@ -19,18 +19,6 @@ By the end of this lesson, students will be able to:
 ---
 
 # Lesson Outline
-
-| Time | Topic |
-|------|-------|
-| 10 min | Introduction to Core Modules |
-| 20 min | File System (`fs`) |
-| 20 min | HTTP Server (`http`) |
-| 15 min | Path Module (`path`) |
-| 10 min | Operating System (`os`) |
-| 15 min | Crypto Module (`crypto`) |
-| 15 min | URL Module (`url`) |
-| 15 min | Query String Module (`querystring`) |
-
 ---
 
 # 1. Introduction to Core Modules
