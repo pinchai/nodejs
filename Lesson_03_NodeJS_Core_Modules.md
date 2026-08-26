@@ -1,7 +1,5 @@
 # Lesson 3 – Node.js Core Modules
 
-**Duration:** 2 Hours
-
 ## Learning Objectives
 
 By the end of this lesson, students will be able to:
